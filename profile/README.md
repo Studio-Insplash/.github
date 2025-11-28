@@ -1,7 +1,5 @@
 # Studio Insplash
-<p align="left">
-    <img src="../assets/logo.png" width="120" />
-</p>
+[../assets/logo.png]
 
 ## Purpose
 > **作りたいもの・必要なものを作るための開発スタジオ**\
