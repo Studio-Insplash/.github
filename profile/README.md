@@ -1,6 +1,7 @@
 <p align="left">
     <img src="../assets/logo.png" width="120" />
 </p>
+
 # Studio Insplash
 
 ## Purpose
