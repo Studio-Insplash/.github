@@ -3,12 +3,12 @@
     <img src="../assets/logo.png" width="120" />
 </p>
 
-### Purpose
+## Purpose
 > **作りたいもの・必要なものを作るための開発スタジオ**
 >
 > **A studio that builds the products we want or need.**
 
-### Concept
+## Concept
 > ***Flash your inspiration. Build with Insplash.***
 
 ## 👥 Members
