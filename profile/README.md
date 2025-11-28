@@ -4,8 +4,7 @@
 </p>
 
 ## Purpose
-> **作りたいもの・必要なものを作るための開発スタジオ**
->
+> **作りたいもの・必要なものを作るための開発スタジオ**\
 > **A studio that builds the products we want or need.**
 
 ## Concept
