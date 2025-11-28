@@ -9,7 +9,7 @@
 > **A studio that builds the products we want or need.**
 
 ## Concept
-### > ***Flash your inspiration. Build with Insplash.***
+> ***Flash your inspiration. Build with Insplash.***
 
 ## 👥 Members
 - [@Ju5tADeve10per](https://github.com/Ju5tADeve10per) - Developer
