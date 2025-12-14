@@ -26,3 +26,4 @@ $$\   $$ |  $$ |$$\ $$ |  $$ |$$ |  $$ |$$ |$$ |  $$ |  $$ |  $$ |  $$ | \____$$
 ## 👥 Members
 - [@Ju5tADeve10per](https://github.com/Ju5tADeve10per) - Developer
 - [@WilliamMercado](https://github.com/WilliamMercado) - Developer
+- [@choco798](https://github.com/choco798) - Developer
