@@ -1,8 +1,7 @@
 <p align="left">
     <img src="../assets/logo.png" width="120" />
+    <img src="../assets/hero/hero.png" width="400" />
 </p>
-
-<img src="../assets/hero/hero.png"/>
 
 ## Purpose
 > **作りたいもの・必要なものを作るための開発スタジオ**\
