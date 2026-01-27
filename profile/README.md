@@ -1,6 +1,6 @@
 <p align="left">
-    <img src="../assets/logo.png" width="120" />
-    <img src="../assets/hero/hero.png" width="400" />
+    <img src="../assets/logo.png" width="400" />
+    <img src="../assets/hero/hero.png" width="1000" />
 </p>
 
 ## Purpose
